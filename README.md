@@ -1,5 +1,6 @@
 # Repositório do Desafio de Projeto
-Desafio Projeto Git/Github
+
+Desafio Projeto Git/Github - repositório criado para o Desafio de Projeto
 
 
 ##Links úteis
